@@ -1,0 +1,10 @@
+{
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.renderIndentGuides": false,
+    "editor.minimap.enabled": false,
+    "editor.renderWhitespace": "boundary",
+    "window.zoomLevel": 0,
+    "workbench.iconTheme": "vscode-icons",
+    "files.autoGuessEncoding": true
+}
