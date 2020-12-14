@@ -68,5 +68,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 =======
-# bitcamp-react
->>>>>>> ec0364d157a93203f6f059b63fd3b797b6004399
